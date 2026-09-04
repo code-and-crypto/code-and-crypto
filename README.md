@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://medium.com/@code-and-crypto"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"></a>
   <a href="https://www.reddit.com/user/codeandcrypto_"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"></a>
-  <a href="mailto:code.and.crypto@proton.me"><img alt="Email" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=white"></a>
 </p>
 
 <!-- YouTube badge is parked until the channel exists on the Code & Crypto Google
@@ -56,4 +55,4 @@ just the conclusion.
 
 ---
 
-<p align="center"><sub>Reach me at <a href="mailto:code.and.crypto@proton.me">code.and.crypto@proton.me</a></sub></p>
+<p align="center"><sub>Questions and bug reports are best raised as an issue on the relevant repository.</sub></p>
